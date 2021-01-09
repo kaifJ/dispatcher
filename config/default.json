@@ -1,0 +1,4 @@
+{
+  "production": "mongodb+srv://razor123:razor123@dispatcher.nh0hw.mongodb.net/Dispatcher?retryWrites=true&w=majority",
+  "development": "mongodb://127.0.0.1:27017/dispatcher"
+}
